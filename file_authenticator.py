@@ -2,7 +2,7 @@ import hashlib
 import sys
 
 if len(sys.argv) != 3:
-    print("ERROR: This script requires 2 system arguments.")
+    print("ERROR: This script requires 3 total system arguments.")
     print("FORMAT: python file_authenticator.py <src_file> <dst_file>")
     sys.exit(1)
 
