@@ -1,5 +1,5 @@
 # FileAuthenticator-Python
-Compares hashes of two files to check identicality.
+Compares hashes of any two files (images, text files, binary files, etc) to check identicality.
 
 
 ## Usage Format
