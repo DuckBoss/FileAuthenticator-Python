@@ -10,7 +10,7 @@ python file_authenticator.py src_file.txt dst_file.txt
 
 ## Example Run
 ```
-> python file_authenticator.py file1.txt file2.txt
+> python file_authenticator.py example_src.txt example_dst.txt
 ```
 ```
 The Src file and Dst file is IDENTICAL.
